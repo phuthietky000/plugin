@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "name": "Bàn Long",
+        "author": "tôi",
+        "version": 1,
+        "source": "https://blhvip.vn",
+        "regexp": "(www.)?blhvip.vn/truyen/[0-9a-z-]+/?",
+        "description": "Đọc truyện trên banlong",
+        "locale": "vi-VN",
+        "language": "java script",
+        "type": "novel"
+    },
+  "script": {
+    "home": "home.js",
+    "genre": "genre.js",
+    "detail": "detail.js",
+    "search": "search.js",
+    "page": "page.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}
