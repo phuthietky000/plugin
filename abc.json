@@ -1,17 +1,17 @@
 {
   "metadata": {
-    "author": "vBook",
+    "author": "tôi",
     "description": ""
   },
   "data": [
     {
-      "name": "Bạch Ngọc Sách",
-      "author": "vBook",
-      "path": "https://raw.githubusercontent.com/Darkrai9x/vbook-extensions/master/bachngocsach/plugin.zip",
-      "version": 13,
-      "source": "https://bnsach.com/reader",
-      "icon": "https://raw.githubusercontent.com/Darkrai9x/vbook-extensions/master/bachngocsach/icon.png",
-      "description": "Đọc truyện trên trang bnsach.com/reader",
+      "name": "bàn long",
+      "author": "tôi",
+      "path": "https://raw.githubusercontent.com/phuthietky000/plugin/refs/heads/main/plugin.zip",
+      "version": 1,
+      "source": "https://blhvip.vn",
+      "icon": "https://raw.githubusercontent.com/phuthietky000/plugin/refs/heads/main/icon.png",
+      "description": "Đọc truyện trên trang banlong.us",
       "type": "novel",
       "locale": "vi_VN"
     }
